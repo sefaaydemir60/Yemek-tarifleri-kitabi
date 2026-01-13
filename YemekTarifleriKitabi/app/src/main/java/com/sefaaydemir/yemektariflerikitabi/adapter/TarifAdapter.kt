@@ -1,10 +1,10 @@
-package com.erdalkalkan.yemektariflerikitabi.adapter
+package com.sefaaydemir.yemektariflerikitabi.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.RecyclerView
-import com.erdalkalkan.yemektariflerikitabi.databinding.RecyclerRowBinding
+import com.sefaaydemir.yemektariflerikitabi.databinding.RecyclerRowBinding
 import com.atilsamancioglu.yemektariflerikitabi.model.Tarif
 import com.atilsamancioglu.yemektariflerikitabi.view.ListeFragmentDirections
 
