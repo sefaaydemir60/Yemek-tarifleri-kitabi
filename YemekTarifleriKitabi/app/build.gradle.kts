@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.erdalkalkan.yemektariflerikitabi"
+    namespace = "com.sefaaydemir.yemektariflerikitabi"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.erdalkalkan.yemektariflerikitabi"
+        applicationId = "com.sefaaydemir.yemektariflerikitabi"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
