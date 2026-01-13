@@ -1,11 +1,11 @@
-package com.erdalkalkan.yemektariflerikitabi.view
+package com.sefaaydemir.yemektariflerikitabi.view
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.erdalkalkan.yemektariflerikitabi.R
+import com.sefaaydemir.yemektariflerikitabi.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
