@@ -23,7 +23,7 @@ import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.navigation.Navigation
 import androidx.room.Room
-import com.erdalkalkan.yemektariflerikitabi.databinding.FragmentTarifBinding
+import com.sefaaydemir.yemektariflerikitabi.databinding.FragmentTarifBinding
 import com.atilsamancioglu.yemektariflerikitabi.model.Tarif
 import com.atilsamancioglu.yemektariflerikitabi.roomdb.TarifDAO
 import com.atilsamancioglu.yemektariflerikitabi.roomdb.TarifDatabase
